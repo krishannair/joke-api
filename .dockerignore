@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+.venv/
+
+# Git
+.git/
+.gitignore
+
+# Docker
+dockerfile
+.dockerignore
+
+# Documentation
+README.md
